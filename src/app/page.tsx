@@ -114,6 +114,7 @@ export default function IRPF() {
                 }}
                 className="animate-in fade-in duration-300"
                 priority={numFoto === 1}
+                unoptimized={true}
               />
             ))}
 
