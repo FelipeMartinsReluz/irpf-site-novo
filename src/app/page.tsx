@@ -102,7 +102,7 @@ export default function IRPF() {
             {[1, 2, 3].map((numFoto) => (
               <Image 
                 key={numFoto}
-                src={`/reluz.github.io/Foto${numFoto}.jpg`}
+                src={`/reluz-irpf-2026/Foto${numFoto}.jpg`}
                 alt={`Página ${numFoto} do Guia IRPF`}
                 width={0}
                 height={0}
